@@ -147,14 +147,13 @@
     <string name="magicbag">
       <text locale="en">This bag encloses a dimensional fold, which can store up to 200
         stones of weight without any extra burden on the bearer. Large items
-        such as horses or carts cannot be placed inside.</text>
+        such as horses, stones or carts cannot be placed inside.</text>
       <text locale="de">Dieser Beutel umschließt eine kleine Dimensionsfalte, in der bis
         zu 200 Gewichtseinheiten transportiert werden können, ohne dass
-        sie auf das Traggewicht angerechnet werden.  Pferde und andere
-        Lebewesen sowie besonders sperrige Dinge (Wagen und Katapulte) können
-        nicht in dem Beutel transportiert werden.  Auch ist es nicht möglich,
-        einen Zauberbeutel in einem anderen zu transportieren.  Der Beutel
-        selber wiegt 1 GE.</text>
+        sie auf das Tragegewicht angerechnet werden. Pferde und andere Lebewesen sowie 
+        besonders sperrige Dinge wie Steine, Wagen und Katapulte können nicht in dem Beutel 
+        transportiert werden. Auch ist es nicht möglich, einen Zauberbeutel in einem anderen 
+        zu transportieren. Der Beutel selber wiegt 1 GE.</text>
     </string>
     <string name="fairyboot">
       <text locale="en">These leather boots are embroidere with unicorn hair and allow
